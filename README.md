@@ -16,11 +16,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rayan0087&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan0087&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!-- ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rayan0087&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=rayan0087&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
