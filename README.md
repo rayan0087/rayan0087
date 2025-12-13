@@ -1,11 +1,12 @@
-![Demo](assets/bg-gif1.gif)
+<!-- ![Demo](assets/bg-gif2.gif) -->
+<img src="assets/bg-gif3.gif" width="100%"/>
 
 <!-- # 💫 About Me: -->
-### 👨‍💻 Odoo Developer
+# 👨‍💻 Odoo Developer
 
 <b>I am an Odoo developer with a strong focus on Python and a background in web development. I specialize in ERP customization, module development, and system integration. I am also comfortable working with multiple programming languages and enjoy continuously learning new technologies to build efficient and scalable solutions.</b>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahadyan.jatmiko.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahadyangj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahadyan-ghiffari-jatmiko-a5249125a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayansarijatmiko@gmail.com) 
 
 # 💻 Tech Stack:
@@ -15,14 +16,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=rayan0087&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan0087&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayan0087&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rayan0087&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rayan0087&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rayan0087&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rayan0087&icon=2&color=0)](https://visitcount.itsvg.in)
