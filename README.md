@@ -104,9 +104,7 @@ Motto: "Transforming complex business needs into clean, scalable solutions."
 ---
 
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=rayan0087&icon=2&color=0" alt="Profile Views" />
-  </a>
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rayan0087&color=714b67&style=for-the-badge" alt="Profile Views" />
+  <br/><br/>
   <p><i>Thanks for visiting! Feel free to explore my repositories or get in touch.</i></p>
 </div>
