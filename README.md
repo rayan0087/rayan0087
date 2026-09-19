@@ -1,34 +1,112 @@
-<!-- ![Demo](assets/bg-gif2.gif) -->
-<img src="assets/bg-gif3.gif" width="100%"/>
+<div align="center">
+  <img src="assets/bg-gif3.gif" width="100%" alt="Header Banner" />
+  
+  <br/><br/>
 
-<!-- # 💫 About Me: -->
-# 👨‍💻 Odoo Developer
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Rahadyan+Ghiffari+Jatmiko+%F0%9F%91%8B;Odoo+Developer+%26+Python+Specialist+%F0%9F%90%8D;ERP+Customization+%E2%80%A2+System+Integration;Always+learning+%26+building+scalable+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
 
-<b>I am an Odoo developer with a strong focus on Python and a background in web development. I specialize in ERP customization, module development, and system integration. I am also comfortable working with multiple programming languages and enjoy continuously learning new technologies to build efficient and scalable solutions.</b>
-
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rahadyan.jatmiko.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahadyangj07) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahadyan-ghiffari-jatmiko-a5249125a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayansarijatmiko@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayan0087&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rayan0087&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan0087&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- <br clear="both">
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
-
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayan0087&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
-
-<!-- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
-
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rayan0087&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+  <p align="center">
+    <a href="https://linkedin.com/in/rahadyan-ghiffari-jatmiko-a5249125a" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:rayansarijatmiko@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://instagram.com/rahadyangj07" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://facebook.com/rahadyan.jatmiko.7" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rayan0087&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+```yaml
+Name: Rahadyan Ghiffari Jatmiko
+Role: Odoo Developer & Software Engineer
+Focus: ERP Customization, Module Development, System Integration
+Location: Indonesia
+Motto: "Transforming complex business needs into clean, scalable solutions."
+```
+
+- 🏢 **Specialization:** End-to-end Odoo ERP customization, bespoke module development, and third-party system integrations.
+- ⚙️ **Backend & Database:** Strong focus on **Python** backend architecture and **PostgreSQL** database performance.
+- 🌐 **Full-Stack Competence:** Experienced across multiple languages and modern web technologies.
+- 🚀 **Continuous Growth:** Enthusiastic about exploring modern tech, workflow automation, and clean architectural patterns.
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 🚀 ERP & Core Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### 🌐 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+#### 🛠️ Developer Tools & Environments
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+</p>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-stats-extended.vercel.app/api?username=rayan0087&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="195" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com/?user=rayan0087&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rayan0087&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="195" alt="Top Languages" />
+  </p>
+</div>
+
+---
+
+### 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayan0087/rayan0087/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayan0087/rayan0087/output/snake.svg" />
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/rayan0087/rayan0087/output/snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=rayan0087&icon=2&color=0" alt="Profile Views" />
+  </a>
+  <br/>
+  <p><i>Thanks for visiting! Feel free to explore my repositories or get in touch.</i></p>
+</div>
