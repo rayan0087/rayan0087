@@ -4,22 +4,14 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Rahadyan+Ghiffari+Jatmiko+%F0%9F%91%8B;Odoo+Developer+%26+Python+Specialist+%F0%9F%90%8D;ERP+Customization+%E2%80%A2+System+Integration;Always+learning+%26+building+scalable+solutions+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Hi+There!+I'm+Rahadyan+Ghiffari+Jatmiko+%F0%9F%91%8B;Odoo+Developer+%26+Python+Specialist+%F0%9F%90%8D;ERP+Customization+%E2%80%A2+System+Integration;Always+learning+%26+building+scalable+solutions+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://linkedin.com/in/rahadyan-ghiffari-jatmiko-a5249125a" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:rayansarijatmiko@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://instagram.com/rahadyangj07" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://facebook.com/rahadyan.jatmiko.7" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-    </a>
+    <a href="https://linkedin.com/in/rahadyan-ghiffari-jatmiko-a5249125a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi40NiAxMC45djguMzdIOS4yVjEwLjlINi40Nk03LjgzIDYuMjVjLS45IDAtMS42My43My0xLjYzIDEuNjMgMCAuOS43MyAxLjYzIDEuNjMgMS42My45IDAgMS42My0uNzMgMS42My0xLjYzIDAtLjktLjczLTEuNjMtMS42My0xLjYzWiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:rayansarijatmiko@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://instagram.com/rahadyangj07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://facebook.com/rahadyan.jatmiko.7" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   </p>
 </div>
 
